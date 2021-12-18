@@ -1,0 +1,20 @@
+{
+  "name": "weblotts-todoServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wabuluka/weblotts-todoServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wabuluka/weblotts-todoServer/issues"
+  },
+  "homepage": "https://github.com/Wabuluka/weblotts-todoServer#readme"
+}
